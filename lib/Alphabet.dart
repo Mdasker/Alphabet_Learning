@@ -89,6 +89,7 @@ class _alphabetState extends State<alphabet> {
     "T",
     "U",
     "V",
+    "W",
     "X",
     "Y",
     "Z",
