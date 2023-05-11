@@ -103,7 +103,7 @@ class _AnimalState extends State<Animal> {
                                     child: Text(_text3[index],style: TextStyle(),textAlign: TextAlign.center,),
                                   ),
                                   TextButton(
-                                    child :const Text("Show less",style: TextStyle(fontSize: 20,color: Colors.blue),) ,
+                                    child :const Text("Show less",style: TextStyle(fontSize: 20,color: Colors.red),) ,
                                     onPressed:() {
                                       setState(() {
                                         show = false;
